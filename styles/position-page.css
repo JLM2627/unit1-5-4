@@ -1,1 +1,27 @@
+nav{
+	position: fixed;
+	padding-left: 60;
+	padding-right: 60;
+	text-align: left;
+	height: 50px;
+	font-size: 16;
+}
+.logo {
+	height:300px;
+	width: 600px:;
+  position: absolute;
+  left: 10px;
+}
 
+div{
+	border: 10px green dotted;
+}
+.picture1{
+	width: 200px;
+	height: 200px;
+}
+
+.picture2{
+	width:200px;
+	height:200px;
+}
